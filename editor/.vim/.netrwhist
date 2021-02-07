@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/sdanousis/devel/Cloud/tf-aws-ocp-testudio-testing-studio'
+let g:netrw_dirhist_3='/Users/sdanousis/devel/DevOps/connectivity/rtpengine_deploy/ansible-role-rtpengine'
+let g:netrw_dirhist_2='/Users/sdanousis/devel/ocp/audio-storage/audio-storage-api/docker'
+let g:netrw_dirhist_1='/Users/sdanousis/devel/saints-xctf-infrastructure/database-snapshot/modules/lambda/func/backup'
+let g:netrw_dirhist_0='/Users/sdanousis/.aws'
+let g:netrw_dirhist_9='/Users/sdanousis/devel/DevOps/connectivity/kamailio/ansible-role-kamailio/defaults'
+let g:netrw_dirhist_8='/Users/sdanousis/devel/DevOps/connectivity/kamailio/ansible-role-kamailio/molecule/ec2/inventory/group_vars'
+let g:netrw_dirhist_7='/Users/sdanousis/devel/DevOps/connectivity/kamailio/ansible-role-kamailio/molecule/ec2/inventory'
+let g:netrw_dirhist_6='/Users/sdanousis/devel/DevOps/connectivity/kamailio/ansible-role-kamailio/molecule/ec2'
+let g:netrw_dirhist_5='/Users/sdanousis/devel/DevOps/connectivity/kamailio/ansible-role-kamailio/molecule'
